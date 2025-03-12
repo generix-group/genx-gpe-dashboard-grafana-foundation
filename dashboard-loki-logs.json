@@ -1,4 +1,7 @@
 {
+  "title": "Loki Logging",
+  "description": "Dashboard for Loki logging and search by namespace/container.",
+  "editable": true,
   "__inputs": [
     {
       "name": "DS_LOKI",
