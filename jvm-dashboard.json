@@ -1,4 +1,7 @@
 {
+  "title": "JVM Dashboard",
+  "description": "Dashboard for Micrometer instrumented applications (Java, Spring Boot, Micronaut)\n\nFilter by datasource/namespace/node.",
+  "editable": true,
   "__inputs": [
     {
       "name": "DS_PROM",
